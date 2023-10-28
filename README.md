@@ -1,7 +1,6 @@
 ![logo](https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov-e1676502561607.jpg?fit=1610%2C800&strip=all)
 <h1 align="center">Hi 👋, I'm Susanta Kumar Debata</h1>
 <h3 align="center">A passionate JAVA developer from India</h3>
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="img" align= "right" height="250" width="400"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susantadebata&label=Profile%20views&color=0e75b6&style=flat" alt="susantadebata" /> </p>
 
 - 🌱 I’m currently learning **React , SpringBoot, Hibernate**
